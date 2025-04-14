@@ -1,3 +1,3 @@
 # test-git-merge
 
-- test first commit 
+- test second commit 
